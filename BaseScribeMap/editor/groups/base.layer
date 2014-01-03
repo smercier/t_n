@@ -1,5 +1,3 @@
-
-LAYERS {
 LAYER {
     1-16 {
         NAME: 'land'
@@ -18,9 +16,4 @@ LAYER {
            }
         }
     }
-}
-
-/*
-test  sss
-*/
 }

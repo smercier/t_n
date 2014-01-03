@@ -22,3 +22,99 @@
 [Fri Jan  3 03:10:41 2014].24979 msSaveImage(stdout) total time: 0.051s
 [Fri Jan  3 03:10:41 2014].25331 mapserv request processing time (msLoadMap not incl.): 0.063s
 [Fri Jan  3 03:10:41 2014].25344 msFreeMap(): freeing map at 0x9c1a750.
+[Fri Jan  3 06:13:58 2014].859461 CGI Request 1 on process 3955
+[Fri Jan  3 06:13:58 2014].866453 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 06:13:58 2014].866603 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 06:13:58 2014].867498 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 06:13:58 2014].867522 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 06:13:58 2014].874068 msDrawMap(): Layer 0 (land1), 0.007s
+[Fri Jan  3 06:13:58 2014].874104 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 06:13:58 2014].874112 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 06:13:58 2014].874117 msDrawMap() total time: 0.015s
+[Fri Jan  3 06:13:58 2014].919681 msSaveImage(stdout) total time: 0.045s
+[Fri Jan  3 06:13:58 2014].920058 mapserv request processing time (msLoadMap not incl.): 0.061s
+[Fri Jan  3 06:13:58 2014].920070 msFreeMap(): freeing map at 0x95a05c8.
+[Fri Jan  3 06:16:36 2014].197255 CGI Request 1 on process 3965
+[Fri Jan  3 06:16:36 2014].202225 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 06:16:36 2014].202322 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 06:16:36 2014].203494 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 06:16:36 2014].203514 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 06:16:36 2014].210423 msDrawMap(): Layer 0 (land1), 0.008s
+[Fri Jan  3 06:16:36 2014].210454 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 06:16:36 2014].210463 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 06:16:36 2014].210469 msDrawMap() total time: 0.013s
+[Fri Jan  3 06:16:36 2014].256404 msSaveImage(stdout) total time: 0.046s
+[Fri Jan  3 06:16:36 2014].256801 mapserv request processing time (msLoadMap not incl.): 0.060s
+[Fri Jan  3 06:16:36 2014].256813 msFreeMap(): freeing map at 0x87d15c8.
+[Fri Jan  3 06:16:38 2014].119428 CGI Request 1 on process 3966
+[Fri Jan  3 06:16:38 2014].121698 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 06:16:38 2014].121737 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 06:16:38 2014].123001 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 06:16:38 2014].123022 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 06:16:38 2014].132305 msDrawMap(): Layer 1 (land2), 0.011s
+[Fri Jan  3 06:16:38 2014].132345 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 06:16:38 2014].132354 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 06:16:38 2014].132360 msDrawMap() total time: 0.013s
+[Fri Jan  3 06:16:38 2014].190076 msSaveImage(stdout) total time: 0.058s
+[Fri Jan  3 06:16:38 2014].190479 mapserv request processing time (msLoadMap not incl.): 0.071s
+[Fri Jan  3 06:16:38 2014].190491 msFreeMap(): freeing map at 0x940d5c8.
+[Fri Jan  3 14:47:29 2014].460230 CGI Request 1 on process 1430
+[Fri Jan  3 14:47:29 2014].464537 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 14:47:29 2014].470339 msDrawMap(): WMS/WFS set-up and query, 0.006s
+[Fri Jan  3 14:47:29 2014].472042 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 14:47:29 2014].472064 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 14:47:29 2014].484352 msDrawMap(): Layer 0 (land1), 0.014s
+[Fri Jan  3 14:47:29 2014].484391 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 14:47:29 2014].484399 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 14:47:29 2014].484405 msDrawMap() total time: 0.024s
+[Fri Jan  3 14:47:29 2014].549496 msSaveImage(stdout) total time: 0.059s
+[Fri Jan  3 14:47:29 2014].549846 mapserv request processing time (msLoadMap not incl.): 0.090s
+[Fri Jan  3 14:47:29 2014].549858 msFreeMap(): freeing map at 0x97f45c8.
+[Fri Jan  3 14:48:40 2014].637331 CGI Request 1 on process 1442
+[Fri Jan  3 14:48:40 2014].638749 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 14:48:40 2014].638778 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 14:48:40 2014].639960 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 14:48:40 2014].639977 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 14:48:40 2014].646226 msDrawMap(): Layer 0 (land1), 0.007s
+[Fri Jan  3 14:48:40 2014].646261 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 14:48:40 2014].646270 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 14:48:40 2014].646276 msDrawMap() total time: 0.009s
+[Fri Jan  3 14:48:40 2014].677789 msSaveImage(stdout) total time: 0.031s
+[Fri Jan  3 14:48:40 2014].678044 mapserv request processing time (msLoadMap not incl.): 0.041s
+[Fri Jan  3 14:48:40 2014].678057 msFreeMap(): freeing map at 0x9c205c0.
+[Fri Jan  3 14:51:05 2014].869660 CGI Request 1 on process 1508
+[Fri Jan  3 14:51:05 2014].870636 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 14:51:05 2014].870666 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 14:51:05 2014].871750 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 14:51:05 2014].871767 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 14:51:05 2014].879539 msDrawMap(): Layer 0 (land1), 0.009s
+[Fri Jan  3 14:51:05 2014].879680 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 14:51:05 2014].879697 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 14:51:05 2014].879711 msDrawMap() total time: 0.010s
+[Fri Jan  3 14:51:05 2014].910236 msSaveImage(stdout) total time: 0.030s
+[Fri Jan  3 14:51:05 2014].910479 mapserv request processing time (msLoadMap not incl.): 0.041s
+[Fri Jan  3 14:51:05 2014].910491 msFreeMap(): freeing map at 0x8d955c0.
+[Fri Jan  3 15:10:15 2014].397923 CGI Request 1 on process 2013
+[Fri Jan  3 15:10:15 2014].399262 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 15:10:15 2014].399299 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 15:10:15 2014].400238 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 15:10:15 2014].404254 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 15:10:15 2014].415513 msDrawMap(): Layer 0 (land1), 0.016s
+[Fri Jan  3 15:10:15 2014].415547 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 15:10:15 2014].415555 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 15:10:15 2014].415561 msDrawMap() total time: 0.017s
+[Fri Jan  3 15:10:15 2014].474474 msSaveImage(stdout) total time: 0.054s
+[Fri Jan  3 15:10:15 2014].474775 mapserv request processing time (msLoadMap not incl.): 0.077s
+[Fri Jan  3 15:10:15 2014].474790 msFreeMap(): freeing map at 0x8f885c0.
+[Fri Jan  3 15:10:59 2014].211767 CGI Request 1 on process 2022
+[Fri Jan  3 15:10:59 2014].213204 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 15:10:59 2014].213228 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 15:10:59 2014].214184 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 15:10:59 2014].214200 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 15:10:59 2014].220317 msDrawMap(): Layer 0 (land1), 0.007s
+[Fri Jan  3 15:10:59 2014].220337 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 15:10:59 2014].220345 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 15:10:59 2014].220351 msDrawMap() total time: 0.008s
+[Fri Jan  3 15:10:59 2014].255019 msSaveImage(stdout) total time: 0.035s
+[Fri Jan  3 15:10:59 2014].255263 mapserv request processing time (msLoadMap not incl.): 0.044s
+[Fri Jan  3 15:10:59 2014].255276 msFreeMap(): freeing map at 0x93a1750.
