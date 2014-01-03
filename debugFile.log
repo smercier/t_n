@@ -1,0 +1,24 @@
+[Fri Jan  3 03:10:03 2014].114740 CGI Request 1 on process 3294
+[Fri Jan  3 03:10:03 2014].116914 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 03:10:03 2014].116960 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 03:10:03 2014].118063 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 03:10:03 2014].118082 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 03:10:03 2014].124631 msDrawMap(): Layer 0 (land1), 0.008s
+[Fri Jan  3 03:10:03 2014].124667 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 03:10:03 2014].124676 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 03:10:03 2014].124683 msDrawMap() total time: 0.010s
+[Fri Jan  3 03:10:03 2014].177081 msSaveImage(stdout) total time: 0.052s
+[Fri Jan  3 03:10:03 2014].177604 mapserv request processing time (msLoadMap not incl.): 0.063s
+[Fri Jan  3 03:10:03 2014].177626 msFreeMap(): freeing map at 0x8ed85c8.
+[Fri Jan  3 03:10:40 2014].962138 CGI Request 1 on process 3303
+[Fri Jan  3 03:10:40 2014].964247 msDrawMap(): rendering using outputformat named png (AGG/PNG).
+[Fri Jan  3 03:10:40 2014].964281 msDrawMap(): WMS/WFS set-up and query, 0.000s
+[Fri Jan  3 03:10:40 2014].965378 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 03:10:40 2014].965395 msProjectPoint(): Projection library error. proj says: tolerance condition error
+[Fri Jan  3 03:10:40 2014].974065 msDrawMap(): Layer 0 (land1), 0.010s
+[Fri Jan  3 03:10:40 2014].974111 msDrawLabelCache(): labelcache_map_edge_buffer = 10
+[Fri Jan  3 03:10:40 2014].974127 msDrawMap(): Drawing Label Cache, 0.000s
+[Fri Jan  3 03:10:40 2014].974138 msDrawMap() total time: 0.012s
+[Fri Jan  3 03:10:41 2014].24979 msSaveImage(stdout) total time: 0.051s
+[Fri Jan  3 03:10:41 2014].25331 mapserv request processing time (msLoadMap not incl.): 0.063s
+[Fri Jan  3 03:10:41 2014].25344 msFreeMap(): freeing map at 0x9c1a750.
